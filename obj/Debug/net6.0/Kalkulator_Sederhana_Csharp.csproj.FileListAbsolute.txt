@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\bin\Debug\net6.0\Kalkulator_Sederhana_Csharp.exe
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\bin\Debug\net6.0\Kalkulator_Sederhana_Csharp.deps.json
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\bin\Debug\net6.0\Kalkulator_Sederhana_Csharp.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\bin\Debug\net6.0\Kalkulator_Sederhana_Csharp.dll
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\bin\Debug\net6.0\Kalkulator_Sederhana_Csharp.pdb
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.dll
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\refint\Kalkulator_Sederhana_Csharp.dll
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.pdb
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\Kalkulator_Sederhana_Csharp.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Kalkulator_Sederhana_Csharp\obj\Debug\net6.0\ref\Kalkulator_Sederhana_Csharp.dll
